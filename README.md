@@ -37,7 +37,7 @@ This project serves as the backend for a user authentication app. It is responsi
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/backend-repository.git
+   git clone https://github.com/himanshuCoderr/app_auth_backend.git
    ```
 
 2. Navigate to the project directory:
@@ -67,7 +67,7 @@ This project serves as the backend for a user authentication app. It is responsi
 
 - **POST /registerPerson:** Register a new user.
 - **POST /getRegisteredData:** Log in an existing user.
-- 
+
 ## Contributing
 
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
